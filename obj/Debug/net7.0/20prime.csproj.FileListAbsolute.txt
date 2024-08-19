@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\20prime\obj\Debug\net7.0\20prime.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\20prime\obj\Debug\net7.0\20prime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\20prime\obj\Debug\net7.0\20prime.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\20prime\obj\Debug\net7.0\20prime.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\20prime\obj\Debug\net7.0\20prime.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\20prime\bin\Debug\net7.0\20prime.exe
+C:\Users\ASUS\Desktop\20prime\bin\Debug\net7.0\20prime.deps.json
+C:\Users\ASUS\Desktop\20prime\bin\Debug\net7.0\20prime.runtimeconfig.json
+C:\Users\ASUS\Desktop\20prime\bin\Debug\net7.0\20prime.dll
+C:\Users\ASUS\Desktop\20prime\bin\Debug\net7.0\20prime.pdb
+C:\Users\ASUS\Desktop\20prime\obj\Debug\net7.0\20prime.dll
+C:\Users\ASUS\Desktop\20prime\obj\Debug\net7.0\refint\20prime.dll
+C:\Users\ASUS\Desktop\20prime\obj\Debug\net7.0\20prime.pdb
+C:\Users\ASUS\Desktop\20prime\obj\Debug\net7.0\20prime.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\20prime\obj\Debug\net7.0\ref\20prime.dll
